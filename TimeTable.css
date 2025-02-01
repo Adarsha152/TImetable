@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+}
+
+.Sub1 {
+    color: red;
+}
+
+.Sub2 {
+    color: brown;
+}
+
+.Sub3 {
+    color: green;
+}
+
+.Sub4 {
+    color: blue;
+}
+
+.Sub5 {
+    color: sandybrown;
+}
+
+.Sub6 {
+    color: purple;
+}
+
+.lunch-break {
+    writing-mode: vertical-rl;
+    text-align: center;
+    background-color: #18f3e1;
+    font-weight: bold;
+    padding: 10px;
+    transform: rotate(180deg);
+}
+
+.SUB {
+    color: palevioletred;
+}
+
+thead th[colspan="9"] {
+    font-size: 24px;
+    background-color: #4682B4;
+    color: white;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th {
+    background-color: #2b80d5;
+    color: white;
+    text-transform: uppercase;
+}
